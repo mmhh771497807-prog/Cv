@@ -1,0 +1,6 @@
+﻿User-agent: *
+Allow: /
+
+# رابط خريطة الموقع لمساعدة محركات البحث على الزحف
+Sitemap: https://mohamed-alrajhi.github.io/my-cv/sitemap.xml
+
