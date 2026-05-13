@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# رابط خريطة الموقع الرسمي على فيرسيل
-Sitemap: https://cv-iota-opal-19.vercel.app/sitemap.xml
