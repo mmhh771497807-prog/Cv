@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mmhh771497807-prog.github.io/Cv/sitemap.xml
